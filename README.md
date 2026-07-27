@@ -42,6 +42,8 @@ Bu proje yerel bir sunucu üzerinde çalışan bir instagram oltalama sayfasıd�
 2. Açtığınız terminale bu kodu girin
 
 - ngrok http 5000
+- Açılan ngrok sayfasından; https://2f74-31-206-163-190.ngrok-free.app
+Bu kodu kopyalayın. Artık phishing sayfanız hazır.
 ```
 ## ⚖️ Yasal Uyarı / Disclaimer
 **TR:** Bu araç yalnızca yasal sızma testleri ve eğitim faaliyetleri amacıyla geliştirilmiştir. İzin alınmamış hedef sistemler üzerinde kullanılması yasal sorumluluk doğurabilir. Kullanıcı, aracın kullanımından doğabilecek tüm hukuki sonuçlardan kendisi sorumludur.
