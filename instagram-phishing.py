@@ -9,7 +9,7 @@ from rich.console import Console
 from rich.table import Table
 
 web_app = Flask(__name__)
-cli_app = typer.Typer(help="Terminal Üzerinden Web Sunucusu ve Login Yönetimi")
+cli_app = typer.Typer(help="Sunucu yönetimi - FLASK-NGROK")
 console = Console()
 DB_NAME = "system_server.db"
 
