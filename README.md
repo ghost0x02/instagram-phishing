@@ -10,10 +10,10 @@ Bu proje yerel bir sunucu üzerinde çalışan bir web sayfasıdır. İnternet �
 ## 1. ngrok Kurulumu
 
 ### Hesap Oluşturma
-```
+
 1. [https://ngrok.com](https://ngrok.com) adresine gidin ve ücretsiz hesap oluşturun.
 2. Giriş yaptıktan sonra **Dashboard** → **Your Authtoken** bölümünden authtoken’inizi kopyalayın.
-```
+
 ### Linux terminalde ngrok kurulumu
 ```
 - wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
