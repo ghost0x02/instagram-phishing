@@ -1,14 +1,13 @@
 <a href="https://resmim.net/"><img src="https://resmim.net/cdn/2026/07/27/Edb1Jx.jpg" alt="resim yükle" border="0" /></a>
 
-# Proje Adı
+# INSTAGRAM-PHISHING
 
-Bu proje yerel bir sunucu üzerinde çalışan bir web sayfasıdır. İnternet üzerinden erişilebilir hale getirmek için **ngrok** kullanılır.
+Bu proje yerel bir sunucu üzerinde çalışan bir instagram oltalama sayfasıdır. İnternet üzerinden erişilebilir hale getirmek için **ngrok** kullanılır.
 
 ## Gereksinimler
-```
 - Programı çalıştırmak için gerekli ortam (Python, Node.js vb. – projenize göre)
 - [ngrok](https://ngrok.com) hesabı (ücretsiz)
-```
+- 
 ## 1. ngrok Kurulumu
 
 ### Hesap Oluşturma
