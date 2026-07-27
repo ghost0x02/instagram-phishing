@@ -27,7 +27,7 @@ Bu proje yerel bir sunucu üzerinde çalışan bir web sayfasıdır. İnternet �
 ### Terminalinize ngrok üzerinden aldığınız ngrok tokenini aktif edin
 
 ```
-ngrok config add-authtoken TRY_TOKEN
+- ngrok config add-authtoken TRY_TOKEN
 ```
 ### Phishing programını çalıştırma;
 ```
