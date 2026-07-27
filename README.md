@@ -6,8 +6,7 @@ Bu proje yerel bir sunucu üzerinde çalışan bir instagram oltalama sayfasıd�
 
 ## Gereksinimler
 - Programı çalıştırmak için gerekli ortam (Python, Node.js vb. – projenize göre)
-- [ngrok](https://ngrok.com) hesabı (ücretsiz)
-- 
+- [ngrok](https://ngrok.com) hesabı (ücretsiz) 
 ## 1. ngrok Kurulumu
 
 ### Hesap Oluşturma
