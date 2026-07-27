@@ -5,7 +5,7 @@
 Bu proje yerel bir sunucu üzerinde çalışan bir instagram oltalama sayfasıdır. İnternet üzerinden erişilebilir hale getirmek için **ngrok** kullanılır.
 
 ## Gereksinimler
-- Programı çalıştırmak için gerekli ortam (Python, Node.js vb. – projenize göre)
+- Programı çalıştırmak için gerekli ortam (Python, Node.js vb.)
 - [ngrok](https://ngrok.com) hesabı (ücretsiz) 
 ## 1. ngrok Kurulumu
 
