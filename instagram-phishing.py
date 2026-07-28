@@ -422,10 +422,10 @@ def login():
     if user:
         status = "BAŞARILI"
         msg = "Giriş Başarılı!"
-        console.print(f"[bold green]✓ BAŞARILI GİRİŞ → {username}[/bold green]\n")
+        console.print(f"[bold green] BAŞARILI GİRİŞ → {username}[/bold green]\n")
     else:
         status = "BAŞARISIZ"
-        msg = "Üzgünüz, şifren yanlıştı. Lütfen şifreni dikkatlice kontrol et."
+        msg = "Şifren yanlış, lütfen tekrar dene."
         console.print(f"[bold red]✗ BAŞARISIZ DENEME → {username}[/bold red]\n")
 
     cursor.execute(
@@ -441,7 +441,7 @@ def login():
 def start(port: int = 5000):
     """5000 portunda web sunucusu aktif"""
     init_db()
-    console.print(f"[bold green]✓ Sunucu aktif ediliyor![/bold green]")
+    console.print(f"[bold green] Sunucu aktif [/bold green]")
     console.print(f"[bold cyan]Arayüze erişmek için:[/bold cyan] http://localhost:{port}")
     console.print("[yellow]Sunucuyu kapatmak için CTRL+C yapabilirsiniz.[/yellow]\n")
 
