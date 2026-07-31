@@ -8,6 +8,8 @@ import typer
 from rich.console import Console
 from rich.table import Table
 
+os.system("clear")
+os.system("figlet PHISHING")
 web_app = Flask(__name__)
 cli_app = typer.Typer(help="Sunucu yönetimi - FLASK-NGROK")
 console = Console()
