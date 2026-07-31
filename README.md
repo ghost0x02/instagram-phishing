@@ -1,9 +1,5 @@
 <a href="https://resmim.net/"><img src="https://resmim.net/cdn/2026/07/31/E8Wko7.gif" alt="resim yükle" border="0" /></a>
 
-
-
-<a href="https://resmim.net/"><img src="https://resmim.net/cdn/2026/07/27/EdbuLW.jpg" alt="resim yükle" border="0" /></a>
-
 # INSTAGRAM-PHISHING
 
 Bu proje yerel bir sunucu üzerinde çalışan bir instagram oltalama sayfasıdır. İnternet üzerinden erişilebilir hale getirmek için **ngrok** kullanılır.
